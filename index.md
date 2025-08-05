@@ -6,3 +6,5 @@
 ###### HEADING 6
 
 //Added 6 heading of different sizes
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
